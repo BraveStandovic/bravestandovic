@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merdan</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merdandt=ryo-ma&theme=algolia" alt="merdandt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merdandt" alt="merdandt" /></a> </p>
 
 - 🔭 I’m currently working on [AsmanExpress](https://apps.apple.com/tm/app/asmanexpress/id6444064577)
 
